@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <gradient
+                android:angle="90"
+                android:startColor="#c7bcb6"
+                android:endColor="#c7bcb6"
+                android:type="linear"
+                >
+
+            </gradient>
+        </shape>
+    </item>
+
+</selector>
+
+
+    <!--https://developer.android.com/reference/android/graphics/drawable/GradientDrawable.html-->

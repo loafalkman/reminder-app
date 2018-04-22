@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RemindMe</string>
+    <string name="API_key_first">AIzaSyALmmm7YJLZqxJgVTJ99RrztR4GlygA7_c</string>
+    <string name="API_key">AIzaSyAZFat-h8LN0ypAgbDOrxGEmdMI98CaaMc</string>
+
+    <string name="input_dialog_title">Remind me to:</string>
+    <string name="input_dialog_new_title">New reminder:</string>
+
+    <string name="confirmation_dialog_title">Create reminder</string>
+    <string name="confirmation_dialog_new_place">Confirm change</string>
+
+    <string name="new_reminder_button_string">Add a new reminder!</string>
+    <string name="menu_item_edit_text">Edit text</string>
+    <string name="menu_item_edit_location">Edit location</string>
+    <string name="menu_item_delete">Delete</string>
+
+    <string name="recycler_heading">YOUR REMINDERS:</string>
+
+    <string name="why_permission_heading">Why permission?</string>
+    <string name="permission_explanation">
+        The main purpose of this app is to send notifications
+        with reminders when the user is near a certain place. Tracking the users position is therefore required.
+    </string>
+</resources>

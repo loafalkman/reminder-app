@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bignerdranch.android.thirty.GameActivity">
+    <item
+        android:id="@+id/new_reminder"
+        android:orderInCategory="100"
+        android:icon="@drawable/plus_darkgrey"
+        android:title="New reminder"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/list_reminders"
+        android:orderInCategory="100"
+        android:icon="@drawable/list_darkgrey"
+        android:title="My reminders"
+        app:showAsAction="ifRoom" />
+</menu>

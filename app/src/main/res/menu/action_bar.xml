@@ -9,10 +9,4 @@
         android:title="New reminder"
         app:showAsAction="ifRoom" />
 
-    <item
-        android:id="@+id/list_reminders"
-        android:orderInCategory="100"
-        android:icon="@drawable/list_darkgrey"
-        android:title="My reminders"
-        app:showAsAction="ifRoom" />
 </menu>

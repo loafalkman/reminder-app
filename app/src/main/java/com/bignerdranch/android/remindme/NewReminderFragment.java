@@ -176,13 +176,13 @@ public class NewReminderFragment extends ServiceControllerFragment {
             }
         });
 
-        builder.setNeutralButton("ADD LIST", new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialogInterface, int i) {
-                dialogInputString = inputField.getText().toString();
-                showListInputDialog();
-            }
-        });
+//        builder.setNeutralButton("ADD LIST", new DialogInterface.OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialogInterface, int i) {
+//                dialogInputString = inputField.getText().toString();
+//                showListInputDialog();
+//            }
+//        });
 
         builder.setNegativeButton("CANCEL", new DialogInterface.OnClickListener() {
             @Override

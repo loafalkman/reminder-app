@@ -19,5 +19,23 @@
         sha1="159ae16b877a10ea80bc3e67427a8af0ea87a989">
         <dex dex="/Users/per/AndroidStudioProjects/Publish2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8e630395ac706fbdb403f0405c34a3b1a871fe8a/classes.dex" />
     </item>
+    <item
+        is-multidex="true"
+        jar="/Users/per/reminder-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88d4764be4f836b62c59ad026d466092d8ddaba9">
+        <dex dex="/Users/per/reminder-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6c76afbe263635dac9e24403d7627a5f1f7093a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/per/reminder-app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/per/reminder-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0cb6a26afc6e1d27ea73b204659601c37e234c1/classes.dex" />
+    </item>
 
 </items>
